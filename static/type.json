@@ -1,0 +1,38 @@
+{
+    "status": 200,
+    "data": {
+        "list": {
+            "total": 4,
+            "per_page": "12",
+            "current_page": "1",
+            "data": [
+                {   
+                    "id":1,
+                    "code": "code1",
+                    "name": "外网办证单位",
+                    "sortNum": "1",
+                    "remark":"相关描述信息"
+                },
+                { 
+                    "id":2,
+                    "code": "code2",
+                    "name": "内网办证单位",
+                    "sortNum": "2",
+                    "remark":"相关描述信息"
+                },{
+                    "id":3,
+                    "code": "code3",
+                    "name": "办证中心",
+                    "sortNum": "3",
+                    "remark":"相关描述信息"
+                },{
+                    "id":4,
+                    "code": "code4",
+                    "name": "监管中心",
+                    "sortNum": "4",
+                    "remark":"相关描述信息"
+                }
+            ]
+        }
+    }
+}

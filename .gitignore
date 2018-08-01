@@ -1,0 +1,9 @@
+dist/
+node_modules/
+npm-debug.log
+*.idea
+bower_components/
+*.DS_Store
+.phpintel
+sls-admin.html
+*.map

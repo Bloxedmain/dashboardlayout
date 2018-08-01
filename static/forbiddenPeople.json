@@ -1,0 +1,80 @@
+{
+    "status": 200,
+    "data": {
+        "list": {
+            "total": 6,
+            "per_page": "12",
+            "current_page": "1",
+            "data": [
+                {   
+                    "id":1,
+                    "certificateCenter": "空防处",
+                    "name": "王珊",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2014-06-23 12:10:30",
+                    "forbiddenReason": "空防导入",
+                    "revertTime": "",
+                    "revertReason": ""
+                },
+                { 
+                    "id":2,
+                    "certificateCenter": "空防处",
+                    "name": "李鹏飞",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2015-06-23 12:10:30",
+                    "forbiddenReason": "空防导入",
+                    "revertTime": "",
+                    "revertReason": ""
+                },{
+                    "id":3,
+                    "certificateCenter": "空防处",
+                    "name": "张二丹",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2016-06-23 12:10:30",
+                    "forbiddenReason": "空防导入",
+                    "revertTime": "2014-06-23 12:10:30",
+                    "revertReason": "经考试通过"
+                },{
+                    "id":4,
+                    "certificateCenter": "Pactl",
+                    "name": "张三",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2017-06-23 12:10:30",
+                    "forbiddenReason": "库区违规",
+                    "revertTime": "",
+                    "revertReason": ""
+                },{
+                    "id":5,
+                    "certificateCenter": "Pactl",
+                    "name": "张三",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2014-06-23 12:10:30",
+                    "forbiddenReason": "库区违规",
+                    "revertTime": "",
+                    "revertReason": ""
+                },{
+                    "id":6,
+                    "certificateCenter": "Pactl",
+                    "name": "张三",
+                    "type": "身份证",
+                    "cardId":"310109196012010221",
+                    "status":true,
+                    "importTime":"2014-06-23 12:10:30",
+                    "forbiddenReason": "库区违规",
+                    "revertTime": "",
+                    "revertReason": ""
+                }
+            ]
+        }
+    }
+}
